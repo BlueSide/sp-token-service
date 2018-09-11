@@ -1,0 +1,3 @@
+pushd "../../../../../../"
+mvn compile
+popd
